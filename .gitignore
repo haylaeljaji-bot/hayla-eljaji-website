@@ -1,7 +1,0 @@
-# Ignore everything by default
-/*
-
-# Only track the website code
-!index.html
-!specifications.css
-!.gitignore
